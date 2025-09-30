@@ -18,7 +18,7 @@ Welcome to my React Blog App! This project is a personal endeavor where I explor
 | Routing          | React Router    |
 | State Management | React Context API |
 | Styling          | CSS Modules     |
-| Backend (Optional) | Node.js, Express |
+| Backend          | Node.js, Express |
 
 ## Project Structure
 

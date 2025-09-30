@@ -40,19 +40,25 @@ Copy code
 ```bash
 git clone https://github.com/emirsara-dev/My-react-blog-app.git
 cd My-react-blog-app
+```
 Install dependencies:
 
-bash
-Copy code
+```bash
 npm install
+```
+
 Start the development server:
 
-bash
-Copy code
+```bash
+
 npm start
+
+```
 Open your browser and navigate to http://localhost:3000 to view the app.
 
-Usage
+
+Usage:
+
 Create an Account: Sign up to start writing your own blog posts
 
 Manage Posts: Add, edit, or delete your posts from the dashboard
@@ -64,24 +70,29 @@ Responsive Layout: Works seamlessly on desktops, tablets, and phones
 Contributing
 If you want to contribute:
 
-Fork the repository
+1. Fork the repository
 
-Create a feature branch:
+2. Create a feature branch:
 
-bash
-Copy code
+```bash
+
 git checkout -b feature-name
-Commit your changes:
 
-bash
-Copy code
+```
+3. Commit your changes:
+
+```bash
 git commit -m "Add some feature"
-Push to the branch:
+```
+4. Push to the branch:
 
-bash
-Copy code
+```bash
+
 git push origin feature-name
-Open a Pull Request
+
+```
+5. Open a Pull Request
+
 
 License
 MIT License

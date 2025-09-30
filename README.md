@@ -100,6 +100,8 @@ License
 
 MIT License
 
+
 Contact
+
 Amirhossein Sarabadani — amirhosseinsarabadani@gmail.com
 Project Link: https://github.com/emirsara-dev/My-react-blog-app

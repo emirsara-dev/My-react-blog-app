@@ -59,13 +59,14 @@ Open your browser and navigate to http://localhost:3000 to view the app.
 
 Usage:
 
-Create an Account: Sign up to start writing your own blog posts
+Create an Account: Sign up to start writing your own blog posts.
 
-Manage Posts: Add, edit, or delete your posts from the dashboard
+Manage Posts: Add, edit, or delete your posts from the dashboard.
 
-Search Posts: Use the search bar to find specific articles
+Search Posts: Use the search bar to find specific articles.
 
-Responsive Layout: Works seamlessly on desktops, tablets, and phones
+Responsive Layout: Works seamlessly on desktops, tablets, and phones.
+
 
 Contributing
 If you want to contribute:
@@ -94,7 +95,9 @@ git push origin feature-name
 5. Open a Pull Request
 
 
+
 License
+
 MIT License
 
 Contact

@@ -96,7 +96,7 @@ git push origin feature-name
 
 
 
-### License
+## License
 
 MIT License
 

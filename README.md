@@ -30,8 +30,7 @@ src/
 ├── App.js # Main application component
 └── index.js # Entry point
 
-bash
-Copy code
+
 
 ## Installation
 
@@ -57,7 +56,7 @@ npm start
 Open your browser and navigate to http://localhost:3000 to view the app.
 
 
-Usage:
+## Usage
 
 Create an Account: Sign up to start writing your own blog posts.
 
@@ -68,7 +67,7 @@ Search Posts: Use the search bar to find specific articles.
 Responsive Layout: Works seamlessly on desktops, tablets, and phones.
 
 
-Contributing
+## Contributing
 If you want to contribute:
 
 1. Fork the repository
@@ -97,12 +96,12 @@ git push origin feature-name
 
 
 
-License
+### License
 
 MIT License
 
 
-Contact
+## Contact
 
 Amirhossein Sarabadani — amirhosseinsarabadani@gmail.com
 

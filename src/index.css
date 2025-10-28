@@ -127,3 +127,40 @@
 .blog-details p {
   white-space: pre-line;
 }
+
+/* Footer styles */
+.footer {
+  background: #fafafa;
+  border-top: 1px solid #e0e0e0;
+  box-shadow: 0 -2px 10px rgba(0,0,0,0.05);
+  border-radius: 12px 12px 0 0;
+}
+
+
+.footer {
+  background: #f2f2f2;
+  border-top: 1px solid #ddd;
+  padding: 20px;
+  text-align: center;
+  color: #555;
+  font-size: 14px;
+  margin-top: auto;
+}
+
+/* Make footer stay at bottom even on short pages */
+body, html {
+  height: 100%;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.home {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* pushes footer down */
+}

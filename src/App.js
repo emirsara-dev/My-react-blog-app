@@ -4,10 +4,11 @@ import { BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 import Create from './Create';
 import BlogDetails from './BlogDetails';
 import NotFound from './NotFound';
+import Footer from './Footer';
 
 function App() {
-  const title = 'Welcome to the new blog';
-  const likes = 50;
+  // const title = 'Welcome to the new blog';
+  // const likes = 50;
 
   return (
     <Router>
@@ -29,7 +30,7 @@ function App() {
             </Route>
           </Switch>
         </div>
-        
+        <Footer />
       </div>
     </Router>  
   );

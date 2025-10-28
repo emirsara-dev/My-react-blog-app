@@ -28,7 +28,9 @@ src/
 ├── pages/ # Page components
 ├── services/ # API calls and utilities
 ├── App.js # Main application component
-└── index.js # Entry point
+├── index.js # Entry point
+└── test files
+
 
 
 
